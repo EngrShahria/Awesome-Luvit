@@ -3,7 +3,6 @@
 Powered by <a href = "https://alokborsho.win">Lua Bangladesh</a> and <a href = "https://cloudstring.ltd"> CloudString Technology</a><br>
 Just like other awesome repository, this contains everything related to Luvit/Lua related modules/libraries!
 <hr>
-<br>
 <h3>Major Implementation:</h3>
 <table>
 	<tr>
@@ -19,7 +18,7 @@ Just like other awesome repository, this contains everything related to Luvit/Lu
 	<tr>
 		<td>Weblit</td>
 		<td>Express.js alike Web framework</td>
-		<td><a href="https://github.com/creationix/weblit/">Weblit</a></td>
+		<td><a href="https://github.com/creationix/weblit">Weblit</a></td>
 	</tr>
 	<tr>
 		<td>Discordia</td>
@@ -35,24 +34,50 @@ Just like other awesome repository, this contains everything related to Luvit/Lu
 </table>
 
 <hr>
-<hr> 
-
+<h4>Algorithm:</h4>
 <table>
   <tr>
     <th>Title</th>
     <th>Descriptions</th>
     <th>Link</th>
+    <th>Lit package</th>
   </tr>
-  
    <tr>
 	    <td>Blake2</td>
-	    <td>Luajit implementation of the blake2 hashing algorithm</td>
+	    <td>blake2 hashing algorithm</td>
 	    <td><a href = "https://github.com/creationix/luajit-blake2">blake2</a></td>
   	</tr>
+
+
+
+
+</table> 
+<hr>
+<h4>Web Related:</h4>
+
+<table>
+	<tr>
+		<td>Weblit</td>
+		<td>Express.js alike Web framework</td>
+		<td><a href="https://github.com/creationix/weblit">Weblit</a></td>
+		<td><code>creationix/weblit-app</code></td>
+	</tr>
+	<tr>
+		<td>JWT</td>
+		<td>JSON Web Tokens library</td>
+		<td><a href="https://github.com/creationix/luvit-jwt">JWT</a></td>
+	</tr>	
+</table>
+
+<hr>
+
+<h4>Databases:</h4>
+<table>
 	<tr>
 		<td>PostgreSQL</td>
 		<td>PostgreSql client for Luvit</td>
 		<td><a href="https://github.com/creationix/lua-postgres">postgres</a></td>
+		<td><code>creationix/coro-postgres</code></td>
 	</tr>
 	<tr>
 		<td>Redis client</td>
@@ -60,10 +85,10 @@ Just like other awesome repository, this contains everything related to Luvit/Lu
 		<td><a href="https://github.com/creationix/redis-luvit">Redis</a></td>
 	</tr>
 	<tr>
-		<td>JWT</td>
-		<td>JSON Web Tokens library</td>
-		<td><a href="https://github.com/creationix/luvit-jwt">JWT</a></td>
+		<td>Sqlite3</td>
+		<td>Sqlite3 client for luvit</td>
+		<td><a href="https://github.com/SinisterRectus/lit-sqlite3">Sqlite3</a></td>
+		<td><code>SinisterRectus/sqlite3</code></td>
 	</tr>
 
-
-</table> 
+</table>
