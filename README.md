@@ -1,10 +1,10 @@
 # Awesome-Luvit
 Just like other awesome repository, this contains everything related to Luvit/Lua related modules/libraries!
 
-<img src="lua.png" alt="Lua Bangladesh Brand logo" class="" style="width: 130px; height:auto;"> <br>
-Powered by Lua Bangladesh and CloudString Technology
+<img src="https://alokborsho.win/lua.png" alt="Lua Bangladesh Brand logo" class="" style="width: 130px; height:auto;"> <br>
+Powered by <a href = "https://alokborsho.win">Lua Bangladesh</a> and <a href = "https://cloudstring.ltd"> CloudString Technology</a>
 <hr>
-
+<br>
  <table>
   <tr>
     <th>Title</th>
